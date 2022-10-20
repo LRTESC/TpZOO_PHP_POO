@@ -1,0 +1,15 @@
+{
+    "name": "laurent/php_poo",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LRTESC",
+            "email": "escurelaurent@gmail.com"
+        }
+    ],
+    "require": {}
+}
